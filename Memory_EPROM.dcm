@@ -7,7 +7,7 @@ F http://eeshop.unl.edu/pdf/27128.pdf
 $ENDCMP
 #
 $CMP 2716
-D EPROM 16 KiBit, [Obsolete 2000-11]
+D EPROM 16 KiBit
 K EPROM 16KiBit
 F https://downloads.reactivemicro.com/Electronics/ROM/2716%20EPROM%20-%201.pdf
 $ENDCMP
@@ -61,7 +61,7 @@ F http://ww1.microchip.com/downloads/en/devicedoc/11003L.pdf
 $ENDCMP
 #
 $CMP 27C16
-D EPROM 16 KiBit, [Obsolete 2004-01]
+D EPROM 16 KiBit
 K EPROM 16KiBit
 F https://pdf1.alldatasheet.com/datasheet-pdf/view/110556/NSC/27C16/+011578VlRwa-vGAC+/datasheet.pdf
 $ENDCMP
